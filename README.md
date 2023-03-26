@@ -111,6 +111,6 @@ These are all the tasks of this project, the ones that are completed link to the
 
 ### Authors
 
-* **MUSA OGUNSOLU ** -[musaogunsolu@gmail.com](https://github.com/Kingkalamz)
+* **MUSA OGUNSOLU** -[musaogunsolu@gmail.com](https://github.com/Kingkalamz)
 
 * **TOCHUKWU OKORO** -[stephanotochigg7@yahoo.com](https://github.com/Okoro2022)
